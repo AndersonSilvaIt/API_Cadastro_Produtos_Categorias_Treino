@@ -1,0 +1,12 @@
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Data\bin\Debug\netcoreapp2.2\FN.Store.Data.deps.json
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Data\bin\Debug\netcoreapp2.2\FN.Store.Data.dll
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Data\obj\Debug\netcoreapp2.2\FN.Store.Data.csprojAssemblyReference.cache
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Data\obj\Debug\netcoreapp2.2\FN.Store.Data.csproj.CoreCompileInputs.cache
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Data\obj\Debug\netcoreapp2.2\FN.Store.Data.AssemblyInfoInputs.cache
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Data\obj\Debug\netcoreapp2.2\FN.Store.Data.AssemblyInfo.cs
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Data\bin\Debug\netcoreapp2.2\FN.Store.Data.pdb
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Data\bin\Debug\netcoreapp2.2\FN.Store.Domain.dll
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Data\bin\Debug\netcoreapp2.2\FN.Store.Domain.pdb
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Data\obj\Debug\netcoreapp2.2\FN.Store.Data.csproj.CopyComplete
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Data\obj\Debug\netcoreapp2.2\FN.Store.Data.dll
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Data\obj\Debug\netcoreapp2.2\FN.Store.Data.pdb

@@ -1,0 +1,8 @@
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Domain\bin\Debug\netcoreapp2.2\FN.Store.Domain.deps.json
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Domain\bin\Debug\netcoreapp2.2\FN.Store.Domain.dll
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Domain\bin\Debug\netcoreapp2.2\FN.Store.Domain.pdb
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp2.2\FN.Store.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp2.2\FN.Store.Domain.AssemblyInfoInputs.cache
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp2.2\FN.Store.Domain.AssemblyInfo.cs
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp2.2\FN.Store.Domain.dll
+C:\Users\Prodwin\Desktop\.netCore_FabianoNalin\FN.Store\FN.Store.Domain\obj\Debug\netcoreapp2.2\FN.Store.Domain.pdb
